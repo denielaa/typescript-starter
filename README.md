@@ -8,6 +8,7 @@ Typescript project starter
 - Testing with Mocha
 - Linting with Eslint and Prettier
 - Pre-commit hooks with Husky
+- Prettier with automatic staged files on commit
 - Local development with Nodemon
 - Production build script
 
